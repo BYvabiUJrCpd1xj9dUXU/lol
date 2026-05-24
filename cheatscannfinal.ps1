@@ -121,3 +121,4 @@ foreach ($cheat in $cheats) {
 
 Write-Host "`nScanner Finished No Cheats Has Been Found" -ForegroundColor Green
 Start-Sleep -Seconds 2
+pause
