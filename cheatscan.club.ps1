@@ -653,3 +653,4 @@ Write-Host "Powered by cheatscan.club" -ForegroundColor DarkGray
 Write-Host "Special Thanks to all contributors at cheatscan.club ❤️" -ForegroundColor White
 Write-Host "`nPress any key to exit..." -ForegroundColor DarkGray
 $null = $Host.UI.RawUI.ReadKey("NoEcho,IncludeKeyDown")
+pause
